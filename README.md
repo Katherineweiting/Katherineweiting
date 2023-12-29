@@ -2,8 +2,8 @@
 #### I'm passionate about leveraging my data-driven insights to inform and drive impactful business decisions while aiming to create positive outcomes for people :sunny:
 
 #### 🔭 Take a look at my projects:
-- E-Commerce with Neural Network: [Women Clothes Review Sentiment Analysis](https://github.com/Katherineweiting/E-Commerce-Review-Sentiment-Analysis/edit/main/README.md) - I built a LSTM network using pytorch to predict user ratings on items
-- Hotel Booking with Machine Learning: [Predict-Hotel-Booking-Cancellation](https://github.com/Katherineweiting/Predict-Hotel-Booking-Cancellation) - I utilized and evaluated supervised
+- E-Commerce with Neural Network: [Women Clothes Review Sentiment Analysis](https://github.com/Katherineweiting/E-Commerce-Review-Sentiment-Analysis/edit/main/README.md) - Built a LSTM network using pytorch to predict user ratings on items
+- Hotel Booking with Machine Learning: [Predict-Hotel-Booking-Cancellation](https://github.com/Katherineweiting/Predict-Hotel-Booking-Cancellation) - Utilized and evaluated supervised
 learning models: logistic regression, SVM, and XGBoost on predicting hotel booking cancellation
 
 
