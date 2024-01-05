@@ -3,7 +3,7 @@
 
 #### 🔭 Take a look at my projects:
 - E-Commerce with Neural Network: [Women Clothes Review Sentiment Analysis](https://github.com/Katherineweiting/E-Commerce-Review-Sentiment-Analysis/tree/main) - Built a LSTM network using pytorch to predict user ratings on items
-- Hotel Booking with Machine Learning: [Predict-Hotel-Booking-Cancellation](https://github.com/Katherineweiting/Predict-Hotel-Booking-Cancellation) - Utilized and evaluated supervised
+- Hotel Booking with Machine Learning: [Predict Hotel Booking Cancellation](https://github.com/Katherineweiting/Predict-Hotel-Booking-Cancellation) - Utilized and evaluated supervised
 learning models: logistic regression, SVM, and XGBoost on predicting hotel booking cancellation
 
 
