@@ -2,6 +2,7 @@
 #### I'm passionate about leveraging my data-driven insights to inform and drive impactful business decisions while aiming to create positive outcomes for people :sunny:
 
 #### 🔭 Take a look at my projects:
+- [My Digital Portfolio](https://katherineweiting.github.io/Portfolio/projects.html): Showcase of my professional journey, including my resume and various projects
 - E-Commerce with Neural Network: [Women Clothes Review Sentiment Analysis](https://github.com/Katherineweiting/E-Commerce-Review-Sentiment-Analysis/tree/main) - Built a LSTM network using pytorch to predict user ratings on items
 - Customer Churn Prediction with Machine Learning: [Customer Churn Prediction](https://github.com/Katherineweiting/Predict-Hotel-Booking-Cancellation) - Established key business metric and deployment measures addressing customer churn. Utilized and evaluated supervised learning models: logistic regression, SVM, and Random Forest.
 
